@@ -1,0 +1,29 @@
+_repo: An-Ohio-Woman-in-the-Philippinesincidents-of-Honolulu-ports-in-Japan-and-China_28580
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Conger, Emily Bronson
+    gutenberg_agent_id: '33416'
+    url: http://www.gutenberg.org/2009/agents/33416
+description: ''
+gutenberg_issued: '2009-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28580'
+  lccn: 04025398
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- Description and travel'
+- !lcc 'DS'
+title: 'An Ohio Woman in the Philippines
+
+  Giving personal experiences and descriptions including
+
+  incidents of Honolulu, ports in Japan and China'
+url: http://www.gutenberg.org/ebooks/28580
